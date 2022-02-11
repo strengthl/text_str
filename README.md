@@ -1,2 +1,2 @@
 # text_str
-this is a description.
+this is a test for test_str
